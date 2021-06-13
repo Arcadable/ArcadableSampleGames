@@ -1,0 +1,17 @@
+{
+    "project": {
+        "name": "4 Player Pong",
+        "version": "1.0.0",
+        "main": "/src/main.arc",
+        "export": "/out"
+    },
+    "system": {
+        "screenWidth": 42,
+        "screenHeight": 42,
+        "mainsPerSecond": 300,
+        "rendersPerSecond": 60,
+        "digitalInputAmount": 16,
+        "analogInputAmount": 8,
+        "speakerOutputAmount": 4
+    }
+}
